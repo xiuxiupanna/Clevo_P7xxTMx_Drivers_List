@@ -15,7 +15,7 @@
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | ACPI                    | Intel          |              | Intel(R) Extreme Tuning Utility Device Driver                 | 4.0.1.4                       |             |
 | Audio                   | Creative       |              | Creative Speaker EQ Clevo                                     | 1.01.72                       |             |
-| Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.60.0.4                     |             |
+| Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.70.0.3                     |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
 | CardReader              | Realtek        | RTS5227      | Realtek Card Reader                                           | 10.0.18363.21327              |             |
 | Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                              | 10.1.11.4/10.1.18263.8193     |             |
@@ -28,7 +28,7 @@
 | Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.2.0.1910                    |             |
 | Thunderbolt             | Intel          | JHL6540      | Thunderbolt(TM) Software                                      | 17.4.80.94/17.4.80.550        | Standard    |
 | Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.67 Clevo              |             |
-| Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.60.2.1                     |             |
+| Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.70.0.6                     |             |
 | Other                   | Intel          |              | Intel(R) HID Event Filter                                     | 2.2.1.377                     |             |
 | Other                   | Intel          |              | Intel(R) Software Guard Extensions Device                     | 2.5.100.2                     |             |
 | Audio SW Component      | Creative       |              | Creative Audio Effects Component                              | 2.0.0.40                      |             |
