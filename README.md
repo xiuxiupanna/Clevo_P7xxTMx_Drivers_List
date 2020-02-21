@@ -22,7 +22,7 @@
 | Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1465                |             |
 | Ethernet                | Rivet Networks | Killer E2500 | Killer Series PCI-E Gigabit Ethernet Controller               | 9.0.0.49                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           |             |
-| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 441.87/26.21.14.4187          | Standard    |
+| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.19/26.21.14.4219          | Standard    |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology User Interface                | 17.8.0.1065                   |             |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.0.1065                   |             |
 | Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.2.0.1910                    |             |
@@ -58,11 +58,11 @@
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8688.1 Clevo              | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.746                 |             |
-| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.236                     |             |
-| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.211                 |             |
+| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.753                 |             |
+| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.239                     |             |
+| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.212                 |             |
 | Driver Component        | Realtek        |              | Realtek Audio Driver/XSetup                                   | 4.75.00/PG475                 |             |
-| Driver Component        | Realtek        |              | Realtek Device Extension/AlexaCfgExt                          | 1.0.8865.1 Clevo              |             |
+| Driver Component        | Realtek        |              | Realtek Device Extension/AlexaCfgExt                          | 1.0.8895.1 Clevo              |             |
 | Driver Component        | Realtek        |              | Realtek Device Extension/ExtRtk                               | 6.0.8688.1 Clevo              |             |
-| Driver Component        | Realtek        |              | Intel Device Extension/ExtRtk_IntPCH                          | 09.21.3690.153 Clevo          |             |
+| Driver Component        | Realtek        |              | Intel Device Extension/ExtRtk_IntPCH                          | 09.21.3690.156 Clevo          |             |
 | Driver Component        | Realtek        |              | Realtek Speech Preprocessing IP DLL Component                 | 1.0.24.718                    |             |
