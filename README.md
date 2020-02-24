@@ -58,11 +58,11 @@
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8688.1 Clevo              | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.753                 |             |
-| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.239                     |             |
+| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.754                 |             |
+| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.240                     |             |
 | Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.212                 |             |
 | Driver Component        | Realtek        |              | Realtek Audio Driver/XSetup                                   | 4.75.00/PG475                 |             |
-| Driver Component        | Realtek        |              | Realtek Device Extension/AlexaCfgExt                          | 1.0.8895.1 Clevo              |             |
+| Driver Component        | Realtek        |              | Realtek Device Extension/AlexaCfgExt                          | 1.0.8899.1 Clevo              |             |
 | Driver Component        | Realtek        |              | Realtek Device Extension/ExtRtk                               | 6.0.8688.1 Clevo              |             |
 | Driver Component        | Realtek        |              | Intel Device Extension/ExtRtk_IntPCH                          | 09.21.3690.156 Clevo          |             |
 | Driver Component        | Realtek        |              | Realtek Speech Preprocessing IP DLL Component                 | 1.0.24.718                    |             |
