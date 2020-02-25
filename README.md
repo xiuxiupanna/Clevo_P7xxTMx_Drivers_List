@@ -65,3 +65,11 @@
 | Driver Component        | Realtek        |              | Realtek Device Extension/ExtRtk                               | 6.0.8688.1 Clevo              |             |
 | Driver Component        | Realtek        |              | Intel Device Extension/ExtRtk_IntPCH                          | 09.21.3690.156 Clevo          |             |
 | Driver Component        | Realtek        |              | Realtek Speech Preprocessing IP DLL Component                 | 1.0.24.718                    |             |
+
+## UWP Software Information
+
+| Component               | Vendor         | Title                                      | Version     | File Type  |
+| ----------------------: | :------------- | :----------------------------------------- | :---------- | :--------- |
+| Audio                   | Realtek        | Realtek Audio Control                      | 1.9.214.0   | AppxBundle |
+| Audio                   | Creative       | Sound Blaster Connect                      | 2.2.10.0    | AppxBundle |
+| Storage                 | Intel          | Intel Optane Memory and Storage Management | 17.8.1007.0 | AppxBundle |
