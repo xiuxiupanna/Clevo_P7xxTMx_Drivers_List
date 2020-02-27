@@ -14,7 +14,7 @@
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | ACPI                    | Intel          |              | Intel(R) Extreme Tuning Utility Device Driver                 | 4.0.1.4                       |             |
-| Audio                   | Creative       |              | Creative Speaker EQ Clevo                                     | 1.01.72                       |             |
+| Audio                   | Creative       |              | Creative Speaker EQ Clevo                                     | 1.01.75                       |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.70.0.3                     |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
 | CardReader              | Realtek        | RTS5227      | Realtek Card Reader                                           | 10.0.18363.21327              |             |
