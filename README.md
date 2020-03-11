@@ -19,10 +19,10 @@
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
 | CardReader              | Realtek        | RTS5227      | Realtek Card Reader                                           | 10.0.18363.21327              |             |
 | Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                              | 10.1.11.4/10.1.18263.8193     |             |
-| Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1465                |             |
+| Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1470                |             |
 | Ethernet                | Rivet Networks | Killer E2500 | Killer E2X00 Series PCI-E Ethernet Controller                 | 9.0.0.50                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           |             |
-| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.19/26.21.14.4219          | Standard    |
+| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.59/26.21.14.4259          | Standard    |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.0.1065                   |             |
 | Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.2.0.1910                    |             |
 | Thunderbolt             | Intel          | JHL6540      | Thunderbolt(TM) Software                                      | 17.4.80.94/17.4.80.550        | Standard    |
@@ -35,7 +35,7 @@
 | Audio SW Component      | Creative       |              | Creative Sound Blaster Connect                                | 2.2.8.0                       |             |
 | Chipset SW Component    | Intel          |              | Intel(R) Software Guard Extensions Software                   | 2.5.101.3                     |             |
 | Chipset SW Component    | Intel          |              | Intel(R) Dynamic Application Loader Host Interface            | 1.34.2019.0714                |             |
-| Chipset SW Component    | Intel          |              | Intel(R) iCLS Client                                          | 1.58.48.0                     |             |
+| Chipset SW Component    | Intel          |              | Intel(R) iCLS Client                                          | 1.59.241.0                    |             |
 | Chipset SW Component    | Intel          |              | Intel(R) Management and Security Application Local Management | 1946.12.0.1327                |             |
 
 ## Original Clevo Realtek Audio Drivers Information
