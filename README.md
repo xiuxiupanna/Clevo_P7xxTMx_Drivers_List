@@ -38,6 +38,8 @@
 
 ## Software Guard Extensions (Default Disabled)
 
+| Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
+| ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | Other                   | Intel          |              | Intel(R) Software Guard Extensions Device                     | 2.7.100.2                     |             |
 | Chipset SW Component    | Intel          |              | Intel(R) Software Guard Extensions Software                   | 2.7.100.2                     |             |
 
