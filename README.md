@@ -78,3 +78,4 @@
 | Audio                   | Realtek        | Realtek Audio Control                      | 1.9.214.0   | AppxBundle |
 | Audio                   | Creative       | Sound Blaster Connect                      | 2.2.10.0    | AppxBundle |
 | Storage                 | Intel          | Intel Optane Memory and Storage Management | 17.8.1007.0 | AppxBundle |
+| Thunderbolt             | Intel          | Thunderbolt Control Center                 | 1.0.22.0    | Appx       |
