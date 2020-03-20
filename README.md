@@ -29,14 +29,17 @@
 | Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.67 Clevo              |             |
 | Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.70.0.6                     |             |
 | Other                   | Intel          |              | Intel(R) HID Event Filter                                     | 2.2.1.377                     |             |
-| Other                   | Intel          |              | Intel(R) Software Guard Extensions Device                     | 2.5.100.2                     |             |
 | Audio SW Component      | Creative       |              | Creative Audio Effects Component                              | 2.0.0.40                      |             |
 | Audio SW Component      | Creative       |              | Creative Device Extension                                     | 2.0.0.38                      |             |
 | Audio SW Component      | Creative       |              | Creative Sound Blaster Connect                                | 2.2.8.0                       |             |
-| Chipset SW Component    | Intel          |              | Intel(R) Software Guard Extensions Software                   | 2.5.101.3                     |             |
 | Chipset SW Component    | Intel          |              | Intel(R) Dynamic Application Loader Host Interface            | 1.34.2019.0714                |             |
 | Chipset SW Component    | Intel          |              | Intel(R) iCLS Client                                          | 1.59.241.0                    |             |
 | Chipset SW Component    | Intel          |              | Intel(R) Management and Security Application Local Management | 1946.12.0.1327                |             |
+
+## Software Guard Extensions (Default Disabled)
+
+| Other                   | Intel          |              | Intel(R) Software Guard Extensions Device                     | 2.7.100.2                     |             |
+| Chipset SW Component    | Intel          |              | Intel(R) Software Guard Extensions Software                   | 2.7.100.2                     |             |
 
 ## Original Clevo Realtek Audio Drivers Information
 
