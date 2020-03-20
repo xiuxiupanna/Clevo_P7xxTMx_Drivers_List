@@ -25,7 +25,7 @@
 | Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.59/26.21.14.4259          | Standard    |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.1.1066                   |             |
 | Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.3.0.2003                    |             |
-| Thunderbolt             | Intel          | JHL6540      | Thunderbolt(TM) Software                                      | 17.4.80.94/17.4.80.550        | Standard    |
+| Thunderbolt             | Intel          | JHL6540      | Intel(R) Thunderbolt(TM)                                      | 1.41.789.0                    | DCH/UAD     |
 | Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.67 Clevo              |             |
 | Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.70.0.6                     |             |
 | Other                   | Intel          |              | Intel(R) HID Event Filter                                     | 2.2.1.377                     |             |
