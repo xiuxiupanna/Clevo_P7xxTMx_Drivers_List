@@ -23,8 +23,8 @@
 | Ethernet                | Rivet Networks | Killer E2500 | Killer E2X00 Series PCI-E Ethernet Controller                 | 9.0.0.50                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           |             |
 | Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.59/26.21.14.4259          | Standard    |
-| Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.0.1065                   |             |
-| Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.2.0.1910                    |             |
+| Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.1.1066                   |             |
+| Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.3.0.2003                    |             |
 | Thunderbolt             | Intel          | JHL6540      | Thunderbolt(TM) Software                                      | 17.4.80.94/17.4.80.550        | Standard    |
 | Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.67 Clevo              |             |
 | Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.70.0.6                     |             |
