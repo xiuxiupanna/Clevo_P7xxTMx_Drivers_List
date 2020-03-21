@@ -61,7 +61,7 @@
 
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
-| Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8688.1 Clevo              | DCH/UAD     |
+| Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8694.1 Clevo              | DCH/UAD     |
 | Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.754                 |             |
 | Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.240                     |             |
 | Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.212                 |             |
