@@ -20,10 +20,10 @@
 | Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1470                | DCH/UAD     |
 | Ethernet                | Rivet Networks | Killer E2500 | Killer E2X00 Series PCI-E Ethernet Controller                 | 9.0.0.50                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           |             |
-| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.59/26.21.14.4259          | Standard    |
+| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.74/26.21.14.4274          | Standard    |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.1.1066                   |             |
 | Thunderbolt             | Intel          | JHL6540      | Intel(R) Thunderbolt(TM)                                      | 1.41.789.0                    | DCH/UAD     |
-| Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.68 Clevo              | DCH/UAD     |
+| Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.69 Clevo              | DCH/UAD     |
 | Other                   | Intel          |              | Intel(R) HID Event Filter                                     | 2.2.1.377                     |             |
 | Audio SW Component      | Creative       |              | Creative Audio Effects Component                              | 2.0.0.40                      | DCH/UAD     |
 | Audio SW Component      | Creative       |              | Creative Device Extension                                     | 2.0.0.38                      | DCH/UAD     |
