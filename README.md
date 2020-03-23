@@ -9,14 +9,12 @@
 | Clevo  | P775TM(-G)  |
 | Clevo  | P775TM1(-G) |
 
-## Drivers Information
+## Core Drivers Information
 
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | ACPI                    | Intel          |              | Intel(R) Extreme Tuning Utility Device Driver                 | 4.0.1.4                       |             |
 | Audio                   | Creative       |              | Creative Speaker EQ Clevo                                     | 1.01.75                       |             |
-| Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.70.0.3                     |             |
-| Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
 | CardReader              | Realtek        | RTS5227      | Realtek Card Reader                                           | 10.0.18363.21327              |             |
 | Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                              | 10.1.11.4/10.1.18263.8193     |             |
 | Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1470                | DCH/UAD     |
@@ -24,10 +22,8 @@
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           |             |
 | Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.59/26.21.14.4259          | Standard    |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.1.1066                   |             |
-| Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.3.0.2003                    |             |
 | Thunderbolt             | Intel          | JHL6540      | Intel(R) Thunderbolt(TM)                                      | 1.41.789.0                    | DCH/UAD     |
 | Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.68 Clevo              | DCH/UAD     |
-| Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.70.0.6                     |             |
 | Other                   | Intel          |              | Intel(R) HID Event Filter                                     | 2.2.1.377                     |             |
 | Audio SW Component      | Creative       |              | Creative Audio Effects Component                              | 2.0.0.40                      | DCH/UAD     |
 | Audio SW Component      | Creative       |              | Creative Device Extension                                     | 2.0.0.38                      | DCH/UAD     |
@@ -35,6 +31,27 @@
 | Chipset SW Component    | Intel          |              | Intel(R) Dynamic Application Loader Host Interface            | 1.34.2019.0714                | DCH/UAD     |
 | Chipset SW Component    | Intel          |              | Intel(R) iCLS Client                                          | 1.59.241.0                    | DCH/UAD     |
 | Chipset SW Component    | Intel          |              | Intel(R) Management and Security Application Local Management | 1946.12.0.1327                | DCH/UAD     |
+
+## Storage Drivers Information (Other Storage)
+
+| Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
+| ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
+| Storage                 | Samsung        |              | Samsung NVM Express Driver                                    | 3.3.0.2003                    |             |
+
+## Wireless Drivers Information
+
+| Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
+| ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
+| Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.70.0.6                     |             |
+| Wireless                | Qualcomm       |              | Qualcomm Atheros Extensible Wireless LAN 11AC Device Driver   | 12.0.0.929                    |             |
+
+## Bluetooth Drivers Information
+
+| Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
+| ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
+| Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.70.0.3                     |             |
+| Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
+| Bluetooth               | Qualcomm       |              | Qualcomm Atheros Bluetooth                                    | 10.0.0.929                    |             |
 
 ## Software Guard Extensions (Default Disabled)
 
