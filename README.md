@@ -15,12 +15,12 @@
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | ACPI                    | Intel          |              | Intel(R) Extreme Tuning Utility Device Driver                 | 4.0.1.4                       |             |
 | Audio                   | Creative       |              | Creative Speaker EQ Clevo                                     | 1.01.75                       |             |
-| CardReader              | Realtek        | RTS5227      | Realtek Card Reader                                           | 10.0.18363.21327              |             |
+| CardReader              | Realtek        | RTS5227      | Realtek Card Reader                                           | 10.0.18363.21331              |             |
 | Chipset                 | Intel          | Z370         | Intel(R) Chipset Device Software                              | 10.1.11.4/10.1.18263.8193     |             |
 | Chipset                 | Intel          |              | Intel(R) Management Engine Interface                          | 1952.14.0.1470                | DCH/UAD     |
 | Ethernet                | Rivet Networks | Killer E2500 | Killer E2X00 Series PCI-E Ethernet Controller                 | 9.0.0.50                      |             |
 | Fingerprint             | Synaptics      |              | Synaptics Fingerprint Sensor Driver                           | 5.5.2707.1073 Clevo           |             |
-| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 442.74/26.21.14.4274          | Standard    |
+| Graphics                | NVIDIA         |              | NVIDIA GeForce Software                                       | 445.75/26.21.14.4575          | Standard    |
 | Storage                 | Intel          |              | Intel® Rapid Storage Technology Driver                        | 17.8.1.1066                   |             |
 | Thunderbolt             | Intel          | JHL6540      | Intel(R) Thunderbolt(TM)                                      | 1.41.789.0                    | DCH/UAD     |
 | Touchpad                | Synaptics      |              | Synaptics SMBus Driver                                        | 19.5.32.69 Clevo              | DCH/UAD     |
@@ -42,14 +42,14 @@
 
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
-| Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.70.0.6                     |             |
+| Wireless                | Intel          |              | Intel Wireless WiFi Link Adapters                             | 21.80.2.1                     |             |
 | Wireless                | Qualcomm       |              | Qualcomm Atheros Extensible Wireless LAN 11AC Device Driver   | 12.0.0.929                    |             |
 
 ## Bluetooth Drivers Information
 
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
-| Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.70.0.3                     |             |
+| Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R)                                | 21.80.0.3                     |             |
 | Bluetooth               | Intel          |              | Intel(R) Wireless Bluetooth(R) Audio                          | 17.1.1530.0031                |             |
 | Bluetooth               | Qualcomm       |              | Qualcomm Atheros Bluetooth                                    | 10.0.0.929                    |             |
 
