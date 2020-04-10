@@ -57,7 +57,7 @@
 
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
-| Other                   | Intel          |              | Intel(R) Software Guard Extensions Device                     | 2.7.100.2                     | DCH/UAD     |
+| Other                   | Intel          |              | Intel(R) Software Guard Extensions Device                     | 2.7.101.2                     | DCH/UAD     |
 | Chipset SW Component    | Intel          |              | Intel(R) Software Guard Extensions Software                   | 2.7.100.2                     | DCH/UAD     |
 
 ## Original Clevo Realtek Audio Drivers Information
@@ -79,9 +79,9 @@
 | Component               | Vendor         | Model        | Title                                                         | Version                       | Driver Type |
 | ----------------------: | :------------- | :----------- | :------------------------------------------------------------ | :---------------------------- | :---------- |
 | Audio                   | Realtek        | ALC898       | Realtek High Definition Audio Driver                          | 6.0.8694.1 Clevo              | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.754                 | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.240                     | DCH/UAD     |
-| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.212                 | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Audio Effects Component                               | 11.0.6000.758                 | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Audio Universal Service                               | 1.0.0.246                     | DCH/UAD     |
+| Audio SW Component      | Realtek        |              | Realtek Hardware Support Application                          | 11.0.6000.215                 | DCH/UAD     |
 | Driver Component        | Realtek        |              | Realtek Audio Driver/XSetup                                   | 4.75.00/PG475                 |             |
 | Driver Component        | Realtek        |              | Realtek Device Extension/AlexaCfgExt                          | 1.0.8899.1 Clevo              |             |
 | Driver Component        | Realtek        |              | Realtek Device Extension/ExtRtk                               | 6.0.8688.1 Clevo              |             |
@@ -92,7 +92,7 @@
 
 | Component               | Vendor         | Title                                      | Version     | Arch Type | File Type  |
 | ----------------------: | :------------- | :----------------------------------------- | :---------- | :-------- | :--------- |
-| Audio                   | Realtek        | Realtek Audio Control                      | 1.9.214.0   | x64       | AppxBundle |
+| Audio                   | Realtek        | Realtek Audio Control                      | 1.9.215.0   | x64       | AppxBundle |
 | Audio                   | Creative       | Sound Blaster Connect                      | 2.2.10.0    | x86       | AppxBundle |
 | Storage                 | Intel          | Intel Optane Memory and Storage Management | 17.8.1007.0 |           | AppxBundle |
 | Thunderbolt             | Intel          | Thunderbolt Control Center                 | 1.0.22.0    | x64       | Appx       |
