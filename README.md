@@ -28,9 +28,9 @@
 | Audio SW Component      | Creative       |              | Creative Audio Effects Component                              | 2.0.0.40                      | DCH/UAD     |
 | Audio SW Component      | Creative       |              | Creative Device Extension                                     | 2.0.0.38                      | DCH/UAD     |
 | Audio SW Component      | Creative       |              | Creative Sound Blaster Connect                                | 2.2.8.0                       | DCH/UAD     |
-| Chipset SW Component    | Intel          |              | Intel(R) Dynamic Application Loader Host Interface            | 1.34.2019.0714                | DCH/UAD     |
-| Chipset SW Component    | Intel          |              | Intel(R) iCLS Client                                          | 1.59.241.0                    | DCH/UAD     |
-| Chipset SW Component    | Intel          |              | Intel(R) Management and Security Application Local Management | 1946.12.0.1327                | DCH/UAD     |
+| Chipset SW Component    | Intel          |              | Intel(R) Dynamic Application Loader Host Interface            | 1.36.2020.121                 | DCH/UAD     |
+| Chipset SW Component    | Intel          |              | Intel(R) iCLS Client                                          | 1.60.155.0                    | DCH/UAD     |
+| Chipset SW Component    | Intel          |              | Intel(R) Management and Security Application Local Management | 2012.14.0.1520                | DCH/UAD     |
 
 ## Storage Drivers Information (Other Storage)
 
